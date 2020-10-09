@@ -1,0 +1,8 @@
+1. not all functions are working. Appointment, courselist, coursedetail, cart pages were finished 
+2. Using fake JSON server before, so for checking all the function you need using the back-end api links listed below: 
+   https://luke97030.github.io/category.json
+   https://luke97030.github.io/courseList.json
+   https://luke97030.github.io/courseDetail.json
+   https://luke97030.github.io/appointment.json
+3. Becasue i am using api supported by github, so there is no PUT/POST function. The program only demonstrate how to get the information you want from api by GET
+4. For learning purpose, please do not use for bussiness use. All copyright belongs Haoyu Kong
