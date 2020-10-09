@@ -1,0 +1,57 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/category/category",
+    "pages/course_list/course_list",
+    "pages/appointment/appointment",
+    "pages/course_detail/course_detail",
+    "pages/cart/cart",
+    "pages/collect/collect",
+    "pages/order/order",
+    "pages/search/search",
+    "pages/user/user",
+    "pages/feedback/feedback",
+    "pages/login/login",
+    "pages/auth/auth",
+    "pages/payment/payment"
+
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#2c2c2c",
+    "navigationBarTitleText": "vdream",
+    "navigationBarTextStyle":"white"
+  },
+  "tabBar": {
+    "color": "#2c2c2c",
+    "selectedColor": "#1afa29",
+    "list": [
+      {
+        "pagePath": "pages/appointment/appointment",
+        "text": "首页",
+        "iconPath": "images/home.png",
+        "selectedIconPath": "images/home_HL.png"
+      },
+      {
+        "pagePath": "pages/category/category",
+        "text": "课程分类",
+        "iconPath": "images/category.png",
+        "selectedIconPath": "images/category_HL.png"
+      },
+      {
+        "pagePath": "pages/cart/cart",
+        "text": "购物车",
+        "iconPath": "images/cart.png",
+        "selectedIconPath": "images/cart_HL.png"
+      },
+      {
+        "pagePath": "pages/user/user",
+        "text": "用户中心",
+        "iconPath": "images/selfinfo.png",
+        "selectedIconPath": "images/selfinfo_HL.png"
+      }
+    ]
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

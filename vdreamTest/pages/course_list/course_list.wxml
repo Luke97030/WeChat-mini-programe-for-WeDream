@@ -1,0 +1,37 @@
+<view class="vdream_course_list">
+  <!--搜索框-->
+  <SearchInput></SearchInput>
+  <!--监听自定义事件-->
+  <!--子组件出发的事件名是：tabsItemChange。 为了监听必须在前面加bind keyword
+      bindchilldComponentTriggedEvent="the event handler in parent component"
+  -->
+  <Tabs tabs="{{tabs}}" bindtabsItemChange="handleTabsItemChange">
+    <block wx:if="{{tabs[0].isActive}}">
+      <!--if there are matched courses just showing them-->
+      <block wx:if="{{courseList.length != 0}}">
+          <view class="first_tab">
+            <!--after the user click one course from course list, navigator to the course and passing stime and etime for calculator the price-->
+            <navigator class="course_list" wx:for="{{courseList}}" wx:key="cat_id" url="../course_detail/course_detail?cat_id={{item.cat_id}}&date={{date}}&stime={{stime}}&etime={{etime}}">
+              <!--左侧图片-->
+              <view class="course_image_wrap">
+                <image mode="widthFix" src="{{item.course_small_logo || 'https://s1.ax1x.com/2020/06/25/N0ofXR.png'}}"></image>
+              </view>
+              <!--右侧课程名和价格-->
+              <view class="course_info_wrap">
+                <view class="course_name">{{item.course_name}}</view>
+                <view class="course_price">¥{{item.course_price}}/半小时</view>
+              </view>        
+            </navigator>
+          </view>
+      </block>
+      <!--else, showing user a no course found image-->
+      <block wx:else>
+            <image mode="widthFix" src="https://s1.ax1x.com/2020/07/10/UukpOH.gif"></image>
+            <view class="no_available_course">您选择的时间段没有合适的老师</view>
+      </block>
+    </block>
+    
+    <block wx:elif="{{tabs[1].isActive}}">1</block>
+    <block wx:elif="{{tabs[2].isActive}}">2</block>
+  </Tabs>
+</view>

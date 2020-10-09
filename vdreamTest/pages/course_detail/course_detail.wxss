@@ -1,0 +1,99 @@
+.detail_swiper swiper{
+  height: 60vw;
+  text-align: center;
+}
+
+.detail_swiper image{
+  width: 60%;
+}
+
+.goods_price{
+  padding: 15rpx;
+  font-size: 32rpx;
+  font-weight: 600;
+  color: red
+}
+
+.goods_name_row{
+  display: flex;
+  border-top: 5rpx solid #dedede;
+  border-bottom: 5rpx solid #dedede;
+}
+
+.goods_name_row .goods_name {
+  flex: 5;
+  color: black;
+  font-size: 30rpx;
+  padding: 20rpx 25rpx;
+  display: -webkit-box;
+  overflow: hidden;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+
+}
+
+.goods_collect{
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-left: 1rpx solid #000;
+}
+
+/* .course_info{
+
+} */
+
+.course_info .course_info_title{
+  font-size: 32rpx;
+  font-weight: 600;
+  padding: 20rpx;
+  color: red;
+}
+
+
+.course_info .course_info_content{
+  padding: 0 20rpx;
+}
+
+/* 底部按钮 */
+.btm_tool{
+  border-top: 5rpx solid #ccc;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100vw;
+  height: 90rpx;
+  background-color: #fff;
+  display: flex;
+}
+.tool_item{
+  flex: 1;
+  display: flex;
+  color: #999;
+  font-size: 24rpx;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+.tool_item button{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+}
+.btn_cart, .btn_buy{
+  flex: 2;
+  color: #fff;
+  font-size: 32rpx;
+  font-weight: bold;
+  background-color: aqua;
+}
+.btn_buy{
+  background-color: var(--themeColor);
+}
+

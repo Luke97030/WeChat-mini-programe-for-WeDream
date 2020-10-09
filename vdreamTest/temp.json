@@ -1,0 +1,1299 @@
+{
+    "message": [
+      {
+        "cat_id": 1,
+        "cat_name": "大家电",
+        "cat_pid": 0,
+        "cat_level": 0,
+        "cat_deleted": false,
+        "cat_icon": "/full/none.jpg",
+        "children": [
+          {
+            "cat_id": 3,
+            "cat_name": "电视",
+            "cat_pid": 1,
+            "cat_level": 1,
+            "cat_deleted": false,
+            "cat_icon": "/full/none.jpg",
+            "children": [
+              {
+                "cat_id": 5,
+                "cat_name": "曲面电视",
+                "cat_pid": 3,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/2fb113b32f7a2b161f5ee4096c319afedc3fd5a1.jpg"
+              },
+              {
+                "cat_id": 6,
+                "cat_name": "海信",
+                "cat_pid": 3,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/5e38cf9e6e7c46a17fe1c597a883ae627977b296.jpg"
+              },
+              {
+                "cat_id": 8,
+                "cat_name": "夏普",
+                "cat_pid": 3,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/cece39bd7e9654c20043e4af71696e1f838d4a22.jpg"
+              },
+              {
+                "cat_id": 9,
+                "cat_name": "创维",
+                "cat_pid": 3,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/f62eba98423af3311487f3331c6798d8f099c893.jpg"
+              },
+              {
+                "cat_id": 10,
+                "cat_name": "TCL",
+                "cat_pid": 3,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/86832cc37db8474ac07853c835009f9873eaec89.jpg"
+              },
+              {
+                "cat_id": 11,
+                "cat_name": "PPTV",
+                "cat_pid": 3,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/41c169f14680b3ebf88b4a37ea09085ed731c985.jpg"
+              },
+              {
+                "cat_id": 12,
+                "cat_name": "小米",
+                "cat_pid": 3,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/5c282c3ec283fbc092107f8c7b86f212365acdfa.jpg"
+              },
+              {
+                "cat_id": 13,
+                "cat_name": "长虹",
+                "cat_pid": 3,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/14291787e1f9f0215816048e813e4ec4fbb3dffe.jpg"
+              },
+              {
+                "cat_id": 14,
+                "cat_name": "康佳",
+                "cat_pid": 3,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/de58455691bc7b85351055c220f1a5410ab15693.jpg"
+              },
+              {
+                "cat_id": 15,
+                "cat_name": "三星",
+                "cat_pid": 3,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/8b36730c09815e90de1f86664baef8690c89e979.jpg"
+              },
+              {
+                "cat_id": 16,
+                "cat_name": "飞利浦",
+                "cat_pid": 3,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/7643c31541df41da21c9e734bd2d9a18fed2a2aa.jpg"
+              },
+              {
+                "cat_id": 17,
+                "cat_name": "索尼",
+                "cat_pid": 3,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/e8c76dd2bb103a620929bcb4ad5c5431d62418d3.jpg"
+              },
+              {
+                "cat_id": 18,
+                "cat_name": "先锋",
+                "cat_pid": 3,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/5a46bef92bf32f0157b4d5a6d9a35ca8a5615aca.jpg"
+              },
+              {
+                "cat_id": 19,
+                "cat_name": "家庭影院",
+                "cat_pid": 3,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/5fae60f2cc05c53eaf43075db7eb82bfc9bba9b4.jpg"
+              },
+              {
+                "cat_id": 20,
+                "cat_name": "音响",
+                "cat_pid": 3,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/5515d491f88587084e59aac50010458bb916ee17.jpg"
+              },
+              {
+                "cat_id": 21,
+                "cat_name": "盒子",
+                "cat_pid": 3,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/e65bab9fcb64c336a3f5fba3b2174fef41f12330.jpg"
+              }
+            ]
+          },
+          {
+            "cat_id": 7,
+            "cat_name": "空调",
+            "cat_pid": 1,
+            "cat_level": 1,
+            "cat_deleted": false,
+            "cat_icon": "/full/none.jpg",
+            "children": [
+              {
+                "cat_id": 23,
+                "cat_name": "变频空调",
+                "cat_pid": 7,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/994977fac8f4fa6cea5eb413cd64ddac24a97600.jpg"
+              },
+              {
+                "cat_id": 24,
+                "cat_name": "立柜空调",
+                "cat_pid": 7,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/19fc040b41b4c821c16748529545265f5feb34fa.jpg"
+              },
+              {
+                "cat_id": 25,
+                "cat_name": "挂壁空调",
+                "cat_pid": 7,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/7f3dfec1efdb2559d7fba1ea39d901f4763fae21.jpg"
+              },
+              {
+                "cat_id": 26,
+                "cat_name": "中央空调",
+                "cat_pid": 7,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/47a417ea3c71e5b88a261729e43706611da4ae7e.jpg"
+              },
+              {
+                "cat_id": 27,
+                "cat_name": "移动空调",
+                "cat_pid": 7,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/b9f06f11815deebf5417636cf6967d859956e8bf.jpg"
+              },
+              {
+                "cat_id": 28,
+                "cat_name": "海尔",
+                "cat_pid": 7,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/528517c1f5c49a15f4558be03f46e27f23d379ba.jpg"
+              },
+              {
+                "cat_id": 29,
+                "cat_name": "三菱重工",
+                "cat_pid": 7,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/3ae5b4e47f663b3889edc694c95bf098b7893316.jpg"
+              },
+              {
+                "cat_id": 31,
+                "cat_name": "志高",
+                "cat_pid": 7,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/4d5fd81e6e2e45a9a55d187c2326dea57ef90f9d.jpg"
+              },
+              {
+                "cat_id": 32,
+                "cat_name": "奥克斯",
+                "cat_pid": 7,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/9ec815cf683ef384f74c0b1c6011891da20589f9.jpg"
+              },
+              {
+                "cat_id": 33,
+                "cat_name": "长虹",
+                "cat_pid": 7,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/74547903a7193d252f4a1643849cc707981affa2.jpg"
+              },
+              {
+                "cat_id": 34,
+                "cat_name": "科龙",
+                "cat_pid": 7,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/85ac1aecafb4f25158d2e08d213e6f617307a323.jpg"
+              },
+              {
+                "cat_id": 35,
+                "cat_name": "海信",
+                "cat_pid": 7,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/2079cb1725672419834c3624d52b6abaea8be308.jpg"
+              },
+              {
+                "cat_id": 36,
+                "cat_name": "惠而浦",
+                "cat_pid": 7,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/33774cdd0a4b866bc3f56c0fc55a0063d1f15892.jpg"
+              },
+              {
+                "cat_id": 37,
+                "cat_name": "空调清洗",
+                "cat_pid": 7,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/f4836d9ba4831e4d81ab275cff4ab50677076a2b.jpg"
+              },
+              {
+                "cat_id": 38,
+                "cat_name": "空调维修",
+                "cat_pid": 7,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/19ed844b023720a49792de3c1397e614c9bb260b.jpg"
+              },
+              {
+                "cat_id": 39,
+                "cat_name": "空调安装",
+                "cat_pid": 7,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/f216557789c6d87ac6b31845e0a8c47186d6521a.jpg"
+              },
+              {
+                "cat_id": 40,
+                "cat_name": "空调回收",
+                "cat_pid": 7,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/da07de0ac2f01b18a9ec206fd44a51cf117cf987.jpg"
+              }
+            ]
+          },
+          {
+            "cat_id": 30,
+            "cat_name": "洗衣机",
+            "cat_pid": 1,
+            "cat_level": 1,
+            "cat_deleted": false,
+            "cat_icon": "/full/none.jpg",
+            "children": [
+              {
+                "cat_id": 42,
+                "cat_name": "洗衣机",
+                "cat_pid": 30,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/d33bc76faf761d86692f6b79dbd5bdb007a6c060.jpg"
+              },
+              {
+                "cat_id": 43,
+                "cat_name": "滚筒洗衣机",
+                "cat_pid": 30,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/4f083927b8062beb2e2a8e5fbcb956e07231e644.jpg"
+              },
+              {
+                "cat_id": 44,
+                "cat_name": "波轮洗衣机",
+                "cat_pid": 30,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/2333a004401004514d43fc56bf3a08de3d6dee44.jpg"
+              },
+              {
+                "cat_id": 45,
+                "cat_name": "大容量洗衣机",
+                "cat_pid": 30,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/e2459762678fe83b75b10dab705d9be2570d014c.jpg"
+              },
+              {
+                "cat_id": 46,
+                "cat_name": "迷你洗衣机",
+                "cat_pid": 30,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/1fa57f855d15370a93c16c12b856fae164458c5b.jpg"
+              },
+              {
+                "cat_id": 47,
+                "cat_name": "双缸洗衣机",
+                "cat_pid": 30,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/d8549a361e957132f07d7a9ebcee9bcf9adc12a1.jpg"
+              },
+              {
+                "cat_id": 48,
+                "cat_name": "干衣机",
+                "cat_pid": 30,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/259207618f9cb1fda1fcb8f4ce16280bde8959de.jpg"
+              },
+              {
+                "cat_id": 49,
+                "cat_name": "洗衣机服务",
+                "cat_pid": 30,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/ac69da199d085a7c59360686310697565ef8083e.jpg"
+              },
+              {
+                "cat_id": 50,
+                "cat_name": "西门子",
+                "cat_pid": 30,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/b7c7741303e60a58bbc5ea6ad6679cd0c7f08ce7.jpg"
+              },
+              {
+                "cat_id": 51,
+                "cat_name": "海尔",
+                "cat_pid": 30,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/d2a002e5912a0cf8e74352a9ea38e17e165ccc8d.jpg"
+              },
+              {
+                "cat_id": 52,
+                "cat_name": "小天鹅",
+                "cat_pid": 30,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/3732a28271acaadbdedefb7445efae3aac1c3c81.jpg"
+              }
+            ]
+          },
+          {
+            "cat_id": 53,
+            "cat_name": "冰箱",
+            "cat_pid": 1,
+            "cat_level": 1,
+            "cat_deleted": false,
+            "cat_icon": "/full/none.jpg",
+            "children": [
+              {
+                "cat_id": 57,
+                "cat_name": "对开门冰箱",
+                "cat_pid": 53,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/4b6bfa1646ca0beeb0acda07f77149bc1e3e7185.jpg"
+              },
+              {
+                "cat_id": 58,
+                "cat_name": "多门冰箱",
+                "cat_pid": 53,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/51a4c3435e9445093fc172b65309089e6f8b2262.jpg"
+              },
+              {
+                "cat_id": 59,
+                "cat_name": "三门冰箱",
+                "cat_pid": 53,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/9b4ef20a87083e32b189c49417c55d1e6d297c9a.jpg"
+              },
+              {
+                "cat_id": 60,
+                "cat_name": "十字对开门",
+                "cat_pid": 53,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/941952a7134b6b1e342f25e774f2d926ce35f6a5.jpg"
+              },
+              {
+                "cat_id": 61,
+                "cat_name": "双门冰箱",
+                "cat_pid": 53,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/ba282e17cf2bbbdac501aefc5be6fbd180bcd62c.jpg"
+              },
+              {
+                "cat_id": 62,
+                "cat_name": "冷柜/冰吧",
+                "cat_pid": 53,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/30cc729fd6ec23960ef02786d7f9ed3e6527a349.jpg"
+              },
+              {
+                "cat_id": 63,
+                "cat_name": "商用冷柜",
+                "cat_pid": 53,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/53f4290298db81aed79bd8b4cc97c019da49eb1b.jpg"
+              },
+              {
+                "cat_id": 64,
+                "cat_name": "海尔",
+                "cat_pid": 53,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/d2a002e5912a0cf8e74352a9ea38e17e165ccc8d.jpg"
+              },
+              {
+                "cat_id": 65,
+                "cat_name": "西门子",
+                "cat_pid": 53,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/b7c7741303e60a58bbc5ea6ad6679cd0c7f08ce7.jpg"
+              },
+              {
+                "cat_id": 66,
+                "cat_name": "容声",
+                "cat_pid": 53,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/722b97ed263f975f3dc25e8ac94084c79cd44962.jpg"
+              },
+              {
+                "cat_id": 67,
+                "cat_name": "美菱",
+                "cat_pid": 53,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/e55f3b4c84ebe797397537e2d92e4fd31482d398.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "cat_id": 55,
+        "cat_name": "热门推荐",
+        "cat_pid": 0,
+        "cat_level": 0,
+        "cat_deleted": false,
+        "cat_icon": "/full/none.jpg",
+        "children": [
+          {
+            "cat_id": 69,
+            "cat_name": "圣诞狂欢",
+            "cat_pid": 55,
+            "cat_level": 1,
+            "cat_deleted": false,
+            "cat_icon": "/full/none.jpg",
+            "children": [
+              {
+                "cat_id": 72,
+                "cat_name": "护肤套装",
+                "cat_pid": 69,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/37e2413fad20445374180542fce4d06d0cb38545.jpg"
+              },
+              {
+                "cat_id": 73,
+                "cat_name": "面膜",
+                "cat_pid": 69,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/7ca57e495705e7b60ac5cfc3f5c4d71d12341d72.jpg"
+              },
+              {
+                "cat_id": 74,
+                "cat_name": "巧克力",
+                "cat_pid": 69,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/8d73f842d376174d88137fbe350bf59ac767477b.jpg"
+              },
+              {
+                "cat_id": 75,
+                "cat_name": "儿童玩具",
+                "cat_pid": 69,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/9eec1c64ccbdd837606184ed00c2a611e5a0a2c2.jpg"
+              },
+              {
+                "cat_id": 76,
+                "cat_name": "童装童鞋",
+                "cat_pid": 69,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/75fece9ce4698857628e2c42a0e752a26a50fb18.jpg"
+              },
+              {
+                "cat_id": 77,
+                "cat_name": "平板电脑",
+                "cat_pid": 69,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/d2a821ebd29bad4bf687dc84cc6e092a1792c66f.jpg"
+              },
+              {
+                "cat_id": 78,
+                "cat_name": "笔记本",
+                "cat_pid": 69,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/fd85e32427cfb12e312e4a1022898b3aa3321822.jpg"
+              },
+              {
+                "cat_id": 79,
+                "cat_name": "苹果手机",
+                "cat_pid": 69,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/b4033ffe4dca02026431fe654aa929304defbc2e.jpg"
+              },
+              {
+                "cat_id": 80,
+                "cat_name": "小米手机",
+                "cat_pid": 69,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/b0fef388cd035694eac75d7b53e4a1eebf041cf3.jpg"
+              },
+              {
+                "cat_id": 81,
+                "cat_name": "数码相机",
+                "cat_pid": 69,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/8bd047f8eed61c47305dff3373890a7ef33e785f.jpg"
+              },
+              {
+                "cat_id": 82,
+                "cat_name": "耳机耳麦",
+                "cat_pid": 69,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/cec82af42e24d626d82017f1698a3497038e9ebf.jpg"
+              },
+              {
+                "cat_id": 83,
+                "cat_name": "挂机空调",
+                "cat_pid": 69,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/4b6f5f2964874da6851c1d96bcefaf3840c96d01.jpg"
+              },
+              {
+                "cat_id": 84,
+                "cat_name": "空气净化器",
+                "cat_pid": 69,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/c28dbf9b72eeaf7150c5a2bade7dc35873db6e8e.jpg"
+              },
+              {
+                "cat_id": 85,
+                "cat_name": "洗衣机",
+                "cat_pid": 69,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/5027b6e3f593d4625001644b419a24fffeb68191.jpg"
+              },
+              {
+                "cat_id": 86,
+                "cat_name": "4K超高清",
+                "cat_pid": 69,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/fd99414907afb2e0382456b55ae051e51f9816f5.jpg"
+              },
+              {
+                "cat_id": 87,
+                "cat_name": "洗碗机",
+                "cat_pid": 69,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/23001b342737d8952e135bdaf2eaa0a8a71c2fd5.jpg"
+              }
+            ]
+          },
+          {
+            "cat_id": 1007,
+            "cat_name": "冲锋衣",
+            "cat_pid": 55,
+            "cat_level": 2,
+            "cat_deleted": false,
+            "cat_icon": "https://api-hmugo-web.itheima.net/full/dec71b02fc79cd5c3cf2f596f5fc40f2ae90ba15.jpg"
+          }
+        ]
+      },
+      {
+        "cat_id": 71,
+        "cat_name": "海外购",
+        "cat_pid": 0,
+        "cat_level": 0,
+        "cat_deleted": false,
+        "cat_icon": "/full/none.jpg",
+        "children": [
+          {
+            "cat_id": 89,
+            "cat_name": "国际名牌",
+            "cat_pid": 71,
+            "cat_level": 1,
+            "cat_deleted": false,
+            "cat_icon": "/full/none.jpg",
+            "children": [
+              {
+                "cat_id": 94,
+                "cat_name": "swisse",
+                "cat_pid": 89,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/b16f183fd75dc9ef23040bf1ecb79986961687bc.jpg"
+              },
+              {
+                "cat_id": 95,
+                "cat_name": "巴黎水",
+                "cat_pid": 89,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/cd62542f233606dba918579a8de11e042501eefb.jpg"
+              },
+              {
+                "cat_id": 96,
+                "cat_name": "爱他美",
+                "cat_pid": 89,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/bf88a25a9bf591d91a5a1aab2ddaa3bfd7a43e34.jpg"
+              },
+              {
+                "cat_id": 97,
+                "cat_name": "花王",
+                "cat_pid": 89,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/fa40f059bba735204287f296bd005511084a7c67.jpg"
+              },
+              {
+                "cat_id": 98,
+                "cat_name": "戴森",
+                "cat_pid": 89,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/40c36744b446ee350cd651a2e07c12f0f44af246.jpg"
+              },
+              {
+                "cat_id": 99,
+                "cat_name": "ReFa",
+                "cat_pid": 89,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/2fa6a29fb7fc3b861184d3c9b7203fb6825e708b.jpg"
+              },
+              {
+                "cat_id": 100,
+                "cat_name": "MK",
+                "cat_pid": 89,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/0b4c9e1a708f24902e018da4bd1d88f24a94e2da.jpg"
+              }
+            ]
+          },
+          {
+            "cat_id": 91,
+            "cat_name": "母婴儿童",
+            "cat_pid": 71,
+            "cat_level": 1,
+            "cat_deleted": false,
+            "cat_icon": "/full/none.jpg",
+            "children": [
+              {
+                "cat_id": 102,
+                "cat_name": "纸尿裤",
+                "cat_pid": 91,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/35e3e3c3bcd957a3392f9a2ef029da2007f523ca.jpg"
+              },
+              {
+                "cat_id": 103,
+                "cat_name": "营养辅食",
+                "cat_pid": 91,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/492847b81ffce8ed38691555538a7858f9cd7815.jpg"
+              },
+              {
+                "cat_id": 104,
+                "cat_name": "婴儿用品",
+                "cat_pid": 91,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/2cc770dbd3677f1423b9ebcee2aae936b5d8847d.jpg"
+              },
+              {
+                "cat_id": 105,
+                "cat_name": "婴儿洗护",
+                "cat_pid": 91,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/90b975b5f6d5110c3a8dc67ca4bfdba6de5441ea.jpg"
+              },
+              {
+                "cat_id": 106,
+                "cat_name": "童车童床",
+                "cat_pid": 91,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/0d33fddf2010a8c0114855012c7f61fb01a50940.jpg"
+              },
+              {
+                "cat_id": 107,
+                "cat_name": "儿童玩具",
+                "cat_pid": 91,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/9eec1c64ccbdd837606184ed00c2a611e5a0a2c2.jpg"
+              },
+              {
+                "cat_id": 108,
+                "cat_name": "童装童鞋",
+                "cat_pid": 91,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/75fece9ce4698857628e2c42a0e752a26a50fb18.jpg"
+              }
+            ]
+          },
+          {
+            "cat_id": 92,
+            "cat_name": "美妆",
+            "cat_pid": 71,
+            "cat_level": 1,
+            "cat_deleted": false,
+            "cat_icon": "/full/none.jpg",
+            "children": [
+              {
+                "cat_id": 110,
+                "cat_name": "面膜",
+                "cat_pid": 92,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/2579da906e61146322293d2aa5f4a9facbdc2495.jpg"
+              },
+              {
+                "cat_id": 113,
+                "cat_name": "口红",
+                "cat_pid": 92,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/54af1b428dab75fbb19e0f0602db2fb288ae77b9.jpg"
+              },
+              {
+                "cat_id": 114,
+                "cat_name": "彩妆",
+                "cat_pid": 92,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/231f73f37ce5ca9036d1e9d4168efb4523070875.jpg"
+              },
+              {
+                "cat_id": 115,
+                "cat_name": "护肤套装",
+                "cat_pid": 92,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/d2e1fd5c05c143214cd3a235a85b785e464644a1.jpg"
+              },
+              {
+                "cat_id": 116,
+                "cat_name": "香水香氛",
+                "cat_pid": 92,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/cf8ef95a8a4de25738e9b319a147927ef3472796.jpg"
+              },
+              {
+                "cat_id": 117,
+                "cat_name": "洁面仪",
+                "cat_pid": 92,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/2ef285fb3ffbffe1351a074be69a8e4c29837184.jpg"
+              },
+              {
+                "cat_id": 118,
+                "cat_name": "卸妆",
+                "cat_pid": 92,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/e9c82968002a79e1c4aae6d842029d4c01819950.jpg"
+              }
+            ]
+          },
+          {
+            "cat_id": 111,
+            "cat_name": "个护",
+            "cat_pid": 71,
+            "cat_level": 1,
+            "cat_deleted": false,
+            "cat_icon": "/full/none.jpg",
+            "children": [
+              {
+                "cat_id": 121,
+                "cat_name": "美发护发",
+                "cat_pid": 111,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/2611fb97c4a328f9034a464bcb027ebecadf78b9.jpg"
+              },
+              {
+                "cat_id": 122,
+                "cat_name": "美甲",
+                "cat_pid": 111,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/9e4839859a99de33020b11892c6273b306dce065.jpg"
+              },
+              {
+                "cat_id": 123,
+                "cat_name": "口腔护理",
+                "cat_pid": 111,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/873b02dcbcb3c45b03cb64a5a442227f7d9f1a1b.jpg"
+              },
+              {
+                "cat_id": 124,
+                "cat_name": "女性护理",
+                "cat_pid": 111,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/b57ef9462836fc252fa021e98a612d31c50d94d1.jpg"
+              }
+            ]
+          },
+          {
+            "cat_id": 112,
+            "cat_name": "营养保健",
+            "cat_pid": 71,
+            "cat_level": 1,
+            "cat_deleted": false,
+            "cat_icon": "/full/none.jpg",
+            "children": [
+              {
+                "cat_id": 126,
+                "cat_name": "提高免疫",
+                "cat_pid": 112,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/b263c6b2a8c5bcb2ce1520dae869b1c813ef51e9.jpg"
+              },
+              {
+                "cat_id": 127,
+                "cat_name": "维生素/矿物质",
+                "cat_pid": 112,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/6a6af5285b99e6b888f5cd964c9f49b417120e95.jpg"
+              },
+              {
+                "cat_id": 128,
+                "cat_name": "美容养颜",
+                "cat_pid": 112,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/3e7f67dc1f56174b5a4c1c201e9520d5d9492d6d.jpg"
+              },
+              {
+                "cat_id": 129,
+                "cat_name": "调节三高",
+                "cat_pid": 112,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/c2eb768b6b45ba7787ce03b497561e5a0e7b086f.jpg"
+              },
+              {
+                "cat_id": 130,
+                "cat_name": "减肥瘦身",
+                "cat_pid": 112,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/0c374f272ac0cccf404bdd32844042b2b428a965.jpg"
+              },
+              {
+                "cat_id": 131,
+                "cat_name": "胶原蛋白",
+                "cat_pid": 112,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/0fc2579681f7fa832f7be0037501122e3f7580e1.jpg"
+              },
+              {
+                "cat_id": 132,
+                "cat_name": "补肾强身",
+                "cat_pid": 112,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/9605017e4a15c9109e73f9108d69f616515c87b8.jpg"
+              },
+              {
+                "cat_id": 133,
+                "cat_name": "养生茶饮",
+                "cat_pid": 112,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/0ad5d56114db00681065db0de9fcc42df57a2ed5.jpg"
+              }
+            ]
+          },
+          {
+            "cat_id": 119,
+            "cat_name": "食品",
+            "cat_pid": 71,
+            "cat_level": 1,
+            "cat_deleted": false,
+            "cat_icon": "/full/none.jpg",
+            "children": [
+              {
+                "cat_id": 136,
+                "cat_name": "牛奶乳品",
+                "cat_pid": 119,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/0aedbfb18977ce0e96ed58c4994c9782699f5b5e.jpg"
+              },
+              {
+                "cat_id": 137,
+                "cat_name": "方便速食",
+                "cat_pid": 119,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/54d4960d119f9487d5721bd26b40281d4d20f972.jpg"
+              },
+              {
+                "cat_id": 138,
+                "cat_name": "进口酒水",
+                "cat_pid": 119,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/39f741fd5865e1916c78e8217bbd26fe7f448b4f.jpg"
+              },
+              {
+                "cat_id": 139,
+                "cat_name": "进口粮油",
+                "cat_pid": 119,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/458a8785865396601f4ffaa80c2c08aba0eaaa25.jpg"
+              },
+              {
+                "cat_id": 140,
+                "cat_name": "厨房调料",
+                "cat_pid": 119,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/f7683c852d19e80707aa5ab8ccdcd4fcd6266e16.jpg"
+              }
+            ]
+          },
+          {
+            "cat_id": 134,
+            "cat_name": "数码家电",
+            "cat_pid": 71,
+            "cat_level": 1,
+            "cat_deleted": false,
+            "cat_icon": "/full/none.jpg",
+            "children": [
+              {
+                "cat_id": 142,
+                "cat_name": "平板电脑",
+                "cat_pid": 134,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/504c710242f95ade05e91a4ef2a6f5b383a08f38.jpg"
+              },
+              {
+                "cat_id": 143,
+                "cat_name": "笔记本电脑",
+                "cat_pid": 134,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/da3c18503de16c8e42365e8c395c1797af6f3851.jpg"
+              },
+              {
+                "cat_id": 144,
+                "cat_name": "手机配件",
+                "cat_pid": 134,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/dc692a9c1dc46a69f7106e16438d926e6ef3f578.jpg"
+              },
+              {
+                "cat_id": 145,
+                "cat_name": "音箱音响",
+                "cat_pid": 134,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/33712c9d09be722a1442d2d740147ca9482157bd.jpg"
+              },
+              {
+                "cat_id": 146,
+                "cat_name": "摄影摄像",
+                "cat_pid": 134,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/d641c12b1fa94f95add6a9a57a0c4a03234aeaad.jpg"
+              },
+              {
+                "cat_id": 147,
+                "cat_name": "智能设备",
+                "cat_pid": 134,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/44582ae863d5ad0bd5a7ea2c1c809d7d7cf0cd96.jpg"
+              },
+              {
+                "cat_id": 148,
+                "cat_name": "剃须刀",
+                "cat_pid": 134,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/497d8413617f183f168289f61dc57916bc621d59.jpg"
+              },
+              {
+                "cat_id": 149,
+                "cat_name": "吸尘器",
+                "cat_pid": 134,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/94c6c58577f346587e2ec3885a2c1c2dcb717078.jpg"
+              },
+              {
+                "cat_id": 150,
+                "cat_name": "电饭煲",
+                "cat_pid": 134,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/d156c668fb76e75b32872d14f3c7b151679bc377.jpg"
+              },
+              {
+                "cat_id": 151,
+                "cat_name": "电吹风",
+                "cat_pid": 134,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/b0067c1505383e3d254a66dbf664eea8e0e26f0d.jpg"
+              },
+              {
+                "cat_id": 152,
+                "cat_name": "咖啡机",
+                "cat_pid": 134,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/02dcd16ca42d372d1c3715b390261e8ec9800a9f.jpg"
+              },
+              {
+                "cat_id": 153,
+                "cat_name": "空气净化器",
+                "cat_pid": 134,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/efb8cd9f0d9c31b0e54c165ed88ca60ac3c769b7.jpg"
+              },
+              {
+                "cat_id": 154,
+                "cat_name": "美容仪",
+                "cat_pid": 134,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/6fe8aba50b3a9320c4233acdaba77279ab250932.jpg"
+              },
+              {
+                "cat_id": 156,
+                "cat_name": "电动牙刷",
+                "cat_pid": 134,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/0f3933dfe9f6e83d6aca5cfd186a135b4889c2dc.jpg"
+              }
+            ]
+          },
+          {
+            "cat_id": 155,
+            "cat_name": "服饰箱包",
+            "cat_pid": 71,
+            "cat_level": 1,
+            "cat_deleted": false,
+            "cat_icon": "/full/none.jpg",
+            "children": [
+              {
+                "cat_id": 158,
+                "cat_name": "潮流女包",
+                "cat_pid": 155,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/d1ac34b87e2de6c665026b9375b251efcf7d7bb4.jpg"
+              },
+              {
+                "cat_id": 159,
+                "cat_name": "钟表眼镜",
+                "cat_pid": 155,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/ef87924304d6dd40316e1d663e9d603f77710457.jpg"
+              },
+              {
+                "cat_id": 160,
+                "cat_name": "男装",
+                "cat_pid": 155,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/52cdb6c9843592fc54b8e8737db0fbd2c71a6342.jpg"
+              },
+              {
+                "cat_id": 161,
+                "cat_name": "女装",
+                "cat_pid": 155,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/76c938e518e39d3ff3fc41d9fac9ca12a92d5b84.jpg"
+              },
+              {
+                "cat_id": 162,
+                "cat_name": "配饰",
+                "cat_pid": 155,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/e0ecacfba747eaac79bb2d4dac962a9fd9a45910.jpg"
+              },
+              {
+                "cat_id": 163,
+                "cat_name": "男鞋",
+                "cat_pid": 155,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/d0964328c3b51b78065f4d1c1561dc8a792189ea.jpg"
+              },
+              {
+                "cat_id": 164,
+                "cat_name": "女鞋",
+                "cat_pid": 155,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/4effec52fbca64a39350ddb71504896476ca6ca8.jpg"
+              },
+              {
+                "cat_id": 165,
+                "cat_name": "运动鞋",
+                "cat_pid": 155,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/e8cd5db85d571d8fa9c776a2c8688d29925b9f7a.jpg"
+              },
+              {
+                "cat_id": 166,
+                "cat_name": "功能箱包",
+                "cat_pid": 155,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/acfbb05c611f0d8677037e56934c83a4fc00916d.jpg"
+              },
+              {
+                "cat_id": 167,
+                "cat_name": "珠宝饰品",
+                "cat_pid": 155,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/1faf9fbdeac723373df33af5a4eb90fe6f57bbb7.jpg"
+              },
+              {
+                "cat_id": 168,
+                "cat_name": "内衣",
+                "cat_pid": 155,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/604102a51a9502daf437f97c3fcbb1103a141bfb.jpg"
+              }
+            ]
+          },
+          {
+            "cat_id": 169,
+            "cat_name": "家居日用",
+            "cat_pid": 71,
+            "cat_level": 1,
+            "cat_deleted": false,
+            "cat_icon": "/full/none.jpg",
+            "children": [
+              {
+                "cat_id": 174,
+                "cat_name": "生活日用",
+                "cat_pid": 169,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/fd30b69ebba3eacf75001358e8a84ae2b925c603.jpg"
+              },
+              {
+                "cat_id": 176,
+                "cat_name": "餐厨用具",
+                "cat_pid": 169,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/896dac3175bc4922256740c5df51987e21adf823.jpg"
+              },
+              {
+                "cat_id": 177,
+                "cat_name": "清洁用品",
+                "cat_pid": 169,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/a1f264d05d7299fd0c94d16501fb719aa790dd13.jpg"
+              },
+              {
+                "cat_id": 178,
+                "cat_name": "安全避孕",
+                "cat_pid": 169,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/e8f6da81dda8ff550e35742fc033c2f27d66bcdc.jpg"
+              },
+              {
+                "cat_id": 179,
+                "cat_name": "情趣用品",
+                "cat_pid": 169,
+                "cat_level": 2,
+                "cat_deleted": false,
+                "cat_icon": "https://api-hmugo-web.itheima.net/full/aeb56b5e816d4de7c36b70ce39b925493ba9a2c3.jpg"
+              }
+            ]
+          }
+        ]
+      }
+     
+    ],
+    "meta": {
+      "msg": "获取成功",
+      "status": 200
+    }
+  }

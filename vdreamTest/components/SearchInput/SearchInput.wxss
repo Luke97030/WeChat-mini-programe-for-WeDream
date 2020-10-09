@@ -1,0 +1,27 @@
+/* .search_input{
+  height: 80rpx;
+  padding: 10rpx;
+  background-color: #2c2c2c;
+}
+.search_input navigator{
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #fff;
+  border-radius: 40rpx;
+} */
+.search_input{
+  height: 80rpx;
+  padding: 10rpx;
+  background-color: #2c2c2c;
+}
+.search_input navigator{
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #fff;
+  border-radius: 40rpx;
+  color: #666;
+}

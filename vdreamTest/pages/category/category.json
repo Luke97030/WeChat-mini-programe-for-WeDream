@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "SearchInput": "../../components/SearchInput/SearchInput"
+  },
+  "navigationBarTitleText": "VDrean课程分类"
+}

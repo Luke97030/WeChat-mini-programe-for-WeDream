@@ -1,0 +1,93 @@
+@import "../../styles/weui.wxss";
+/* 购物车内容 */
+.cart_title{
+  font-size: 42rpx;
+  font-weight: bold;
+  padding: 10rpx;
+  border-bottom: 1rpx solid #ccc; 
+}
+.cart_item{
+  display: flex;
+  padding: 10rpx;
+  border-bottom: 1rpx solid #ccc;
+}
+
+.cart_img_wrap{
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.cart_img_wrap{
+  flex: 3;
+}
+.cart_img_wrap image{
+  width: 70%;
+}
+.cart_info_wrap{
+  flex: 6;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.cart_info_wrap .course_name{
+  display: -webkit-box;
+  overflow: hidden;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  margin-top: 20rpx;
+}
+
+.course_price{
+  /* color: var(--themeColor); */
+  color: red;
+  font-size: 20rpx;
+  margin-bottom: 70rpx;
+}
+
+/* 底部工具栏 */
+.footer_tool{
+  width: 100vw;
+  height: 90rpx;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  display: flex;
+  border-top: 1rpx solid #ccc;
+}
+
+
+.order_pay_wrap{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.all_chk_wrap{
+  flex: 2;
+}
+
+
+.total_price_wrap{
+  flex: 5;
+  flex-direction: column;
+  align-items: flex-end;
+  font-size: 24rpx;
+}
+.total_price_wrap .total_price{
+  font-size: 34rpx;
+  margin-top: 5%;
+  margin-left: 40%;
+}
+.total_price_wrap .total_price_text{
+  color: var(--themeColor);
+  font-weight: bold;
+  font-size: 34rpx;
+}
+.order_pay_wrap{
+  flex: 3;
+  color: #fff;
+  font-size: 34rpx;
+  /* background-color: var(--themeColor); */
+  background-color: #FFC300;
+}

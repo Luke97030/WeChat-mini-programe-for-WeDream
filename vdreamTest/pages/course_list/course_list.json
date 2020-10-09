@@ -1,0 +1,9 @@
+{
+  "usingComponents": {
+    "SearchInput": "../../components/SearchInput/SearchInput",
+    "Tabs": "../../components/Tabs/Tabs"
+  },
+  "navigationBarTitleText": "VDrean课程列表",
+  "enablePullDownRefresh": true,
+  "backgroundTextStyle": "#2c2c2c"
+}

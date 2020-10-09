@@ -1,0 +1,41 @@
+<view class="vdream_category">
+  <!--搜索框-->
+  <SearchInput></SearchInput>
+
+  <!--左侧和右侧分类区域-->
+  <view class="category_container">
+    <!-- left side screen view component -->
+    <scroll-view  scroll-y="true" class="category_summary">
+      <!--bind a function handleCategorySummaryChnage, and passing index as parameter-->
+      <view
+        class="category_summary_item {{index===currentCategoryIndex?'active':''}}"
+        wx:for="{{categorySummaryList}}"
+        wx:key="*this"
+        bindtap="handleCategorySummaryChange"
+        data-index="{{index}}"
+        >{{item}}
+      </view>
+    </scroll-view>
+
+    <!-- right side screen view component -->
+    <scroll-view scroll-y="true" class="category_detail" scroll-top="{{resetScrollValue}}">
+      <!--right side view-->
+      <view class="categoryDetailGroup" wx:for="{{categoryDetailList}}" wx:for-index="index1" wx:for-item="item1" wx:key="cat_id">
+         <!--right side view subtitle-->
+         <view class="category_detail_title">
+            <text class="delimiter">:O</text>
+            <text class="title">{{item1.cat_name}}</text>
+            <text class="delimiter">O:</text>
+         </view>
+          <!--right side view content-->
+         <view class="category_detail_item">
+          <!-- <navigator open-type="navigate" wx:for="{{item1.children}}" wx:for-index="index2" wx:for-item="item2" wx:key="cat_id" url="/pages/course_list/course_list?cid={{item2.cat_id}}"> -->
+          <navigator open-type="navigate" wx:for="{{item1.children}}" wx:for-index="index2" wx:for-item="item2" wx:key="cat_id" url="../course_detail/course_detail?cat_id={{item2.cat_id}}"> 
+            <image mode="widthFix" src="{{item2.cat_icon}}"></image>
+            <view class="goods_name">{{item2.cat_name}}</view>
+          </navigator>
+         </view>
+      </view>
+    </scroll-view>
+  </view>
+</view>

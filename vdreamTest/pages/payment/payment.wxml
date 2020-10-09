@@ -1,0 +1,47 @@
+<!--pages/cart/cart.wxml-->
+<view class="cart_content">
+    <view class="cart_title">您的课程</view>
+    <view class="cart_main">
+            <view class="cart_item" wx:for="{{cart}}" wx:key="cat_id">
+                <!--商品图片-->
+                <navigator class="cart_img_wrap">
+                  <image mode="widthFix" src="{{item.course_small_logo}}"></image>
+                    <!-- <image mode="widthFix" src="http://image2.suning.cn/uimg/b2c/newcatentries/0070177617-000000000618993401_2_400x400.jpg"></image> -->        
+                </navigator>
+                <!--商品信息-->
+                <view class="cart_info_wrap">
+                    <view class="course_name">
+                      {{item.course_name}}
+                    </view>
+                    <view class="course_price">课程时间：{{item.date}} {{item.stime}}-{{item.etime}}</view>
+                </view>
+            </view>
+    </view>
+</view>
+
+<!--底部的工具栏-->
+<view class="footer_tool">
+  <!--全选checkbox-->
+  <view class="all_chk_wrap">
+
+  </view>
+  <!--总价格-->
+  <view class="total_price_wrap">
+    <block wx:if="{{cart.length !== 0}}">
+        <view class="total_price" wx:for="{{cart}}" wx:key="cat_id">
+            合计： <text class="total_price_text">¥{{totalPrice}}</text>
+        </view>
+    </block>
+    <block wx:else>
+        <view class="total_price">
+                合计： <text class="total_price_text">¥0</text>
+        </view>
+    </block>
+
+  </view>
+  <!--结算-->  
+  <view class="order_pay_wrap">
+    <!-- 预约({{totalNum}}) -->
+     支付
+  </view>
+</view>

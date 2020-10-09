@@ -1,0 +1,59 @@
+<view class="vdream_index">
+  <!--搜索框-->
+  <SearchInput></SearchInput>
+  <!--轮播图-->
+  <view class="index_swiper">
+    <!--
+        1. swiper default width and height: 100% * 150px
+        2. image default widh and height: 750px * 235px
+        3. 宽度保留100%， 高度自适应
+        
+        计算： swiper width / swiper height = original image width / original image height
+        so swiper height =  swiper width * original image height / original image width
+           swiper height = 100vw * 235 / 750 = 31.3
+    -->
+    <swiper autoplay indicator-dots circular>
+      <swiper-item wx:for="{{swiperList}}" wx:key="course_id">
+        <navigator url="/pages/course_detail/course_detail?cat_id={{item.cat_id}}">
+          <image mode="widthFix" class="swiperItem" src="{{item.image_src}}"></image>
+        </navigator>
+      </swiper-item>
+    </swiper>
+  </view>
+  
+  <!-- 导航栏 -->
+  <!-- <view class="index_category">
+    <navigator open-type="switchTab" url="/pages/category/category" wx:for="{{categoryList}}" wx:key="name">
+      <image mode="widthFix" src="{{item.image_src}}"></image>
+    </navigator>
+  </view> -->
+
+  <!--内容层-->
+   <view class="index_content">
+      <view class="content_group"
+            wx:for="{{bodyList}}"  
+            wx:for-item="item1"
+            wx:for-index="index1"
+            wx:key="floor_title"> 
+          <!-- 标题 -->
+          <view class="content_title">
+            <image src="{{item1.content_title.image_src}}" mode="widthFix"></image>
+          </view>
+          <!--内容-->
+          <view class="floor_list">
+            <navigator 
+              wx:for="{{item1.product_list}}"
+              wx:for-item="item2"
+              wx:for-index="index2"
+              wx:key="name"
+              url="/pages/course_list/course_list?{{item2.name}}">
+                <!-- <image src="{{item2.image_src}}" mode="widthFix"></image> -->
+                <!--限制mode. 第一张图片时widthFix, 其余的三张时scaleToFill-->
+                <!-- <image src="{{item2.image_src}}" mode="{{index2===0?'scaleToFill':'scaleToFill'}}"></image> -->
+                <image src="{{item2.image_src}}" mode="scaleToFill"></image>
+            </navigator>
+          </view>
+
+      </view>
+  </view>
+</view>

@@ -1,0 +1,24 @@
+@import "./styles/iconfont.wxss";
+
+/*
+  微信小程序不支持通配符 ‘*’
+  可以像如下通配wx组件
+*/
+
+page, view, text, swiper, swiper-item, navigator, image{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+
+page{
+    /* 定义主题颜色 */
+    --themeColor: #1afa29;
+     /* 定义字体大小 原稿375p'x, because 1px = 2rpx, then 14px = 28rpx */
+     font-size: 28rpx;
+}
+
+image{
+  width: 100%;
+}

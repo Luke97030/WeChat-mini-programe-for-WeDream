@@ -1,0 +1,52 @@
+<!--swiper area-->
+<view class="detail_swiper">
+  <swiper autoplay circular indicator-dots>
+    <swiper-item wx:for="{{courseObj.pics}}" wx:key="pics_id" bindtap="handleSwiperItemTap" data-url="{{item.pics_mid}}">
+      <image mode="widthFix" src="{{item.pics_mid}}"></image>
+    </swiper-item>
+  </swiper>
+</view>
+
+<!--course name, price and favoriate area-->
+<view class="goods_price">￥{{courseObj.course_price}}/半小时</view>
+<view class="goods_name_row">
+  <view class="goods_name">{{courseObj.course_name}}</view>
+   <view class="goods_collect">
+     <text class="iconfont icon-shoucang"></text>
+     <view class="collect_text">收藏</view>
+   </view>
+</view>
+
+<view class="course_info">
+  <view class="course_info_title">教师背景介绍</view>
+  <view class="course_info_content">
+    <!--文本-->
+    <text>{{courseObj.course_introduce}}</text>
+  </view>
+</view>
+
+<!--bottom tabbar-->
+<view class="btm_tool">
+  <view class="tool_item">
+    <text class="iconfont icon-kefu"></text>
+    <text>客服</text>
+    <button open-type="contact"></button>
+  </view>
+  <view class="tool_item">
+    <text class="iconfont icon-fenxiang"></text>
+    <text>分享</text>
+    <button open-type="share"></button>
+  </view>
+  <navigator open-type="switchTab" url="../cart/cart" class="tool_item">
+    <text class="iconfont icon-che"></text>
+    <text>购物车</text>
+  </navigator>
+
+  <view class="tool_item btn_cart" bindtap="handleCartAdd">
+        <text>加入购物车</text>   
+  </view>
+  <view class="tool_item btn_buy" bindtap="handleAuthCheck">
+    <text>立即预约</text> 
+  </view>
+</view>
+

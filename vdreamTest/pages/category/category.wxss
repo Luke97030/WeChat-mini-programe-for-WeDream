@@ -1,0 +1,71 @@
+/* pages/category/category.wxss */
+.vdream_category{
+  height: 100%;
+}
+
+.category_container{
+  /* 100vh总高度 - 90rpx搜索框的高度 */
+  height: calc(100vh - 90rpx);
+  overflow: auto;
+  display: flex;
+}
+
+.category_summary{
+  /* 高度默认值100% */
+  flex: 2;
+}
+
+.category_detail{
+  /* 高度默认值100% */
+  flex: 5;
+}
+
+/* 左侧 */
+.category_summary_item {
+  /* 左侧目录的间距 */
+  height: 80rpx;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 30rpx;
+}
+
+.category_summary_item.active{
+  color: var(--themeColor);
+  border-left: 5rpx solid currentColor;
+}
+
+
+/* 右侧 */
+.category_detail_title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 20rpx;
+}
+
+.category_detail_item{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.category_detail_item navigator{
+  width: 33.33%;
+  display: flex;
+  /*     上下间距 左右间距 */
+  padding: 10rpx 20rpx;
+  flex-direction: column;
+  align-items: center;
+}
+.category_detail_item image{
+  width: 100%;
+}
+
+.delimiter{
+  color: #ccc;
+  padding: 0 10rpx;
+}
+
+.title{
+  padding: 20rpx 0;
+}
